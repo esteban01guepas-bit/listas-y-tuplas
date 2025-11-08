@@ -1,0 +1,32 @@
+
+
+# 6. Mostrar la cadena al revés
+cadena = "Hola Mundo"
+
+# 7. Reemplazar "Java" por "Python" en la frase
+frase = "Me gusta Java"
+
+# 8. Mostrar solo los primeros 4 caracteres del título
+titulo = "Introducción"
+
+# 9. Contar cuántas palabras tiene la oración (separadas por espacios)
+oracion = "Python es divertido"
+
+# 10. Convertir la cadena a formato título → "El Señor De Los Anillos"
+libro = "el señor de los anillos"
+
+# 11. Quitar los espacios en blanco al inicio y al final del saludo
+saludo = "   Hola mundo   "
+
+# 12. Verificar si la cadena contiene solo letras (sin números ni símbolos)
+codigo = "Python3"
+
+# 13. Mostrar las iniciales del nombre completo → "C.A.G."
+nombre_completo = "Carlos Alberto García"
+
+# 14. Reemplazar las vocales con "_" (guion bajo)
+frase = "Estoy aprendiendo Python"
+
+# 15. Crear un nombre de usuario con las 2 primeras letras del nombre + 3 últimas del apellido, en minúsculas
+nombre = "Luis"
+apellido = "Martínez
